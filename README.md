@@ -1,14 +1,14 @@
 # Sentiment_Analysis
 Covid 19 Booster Dose Hesitancy (Sentiment Analysis)
 
-Introduction
+# Introduction
 Natural Language Processing (NLP) is an area of computer science that focuses on examining and interpreting text. Over time, notable progress has been achieved by leveraging deep learning
 (DL), machine learning (ML), and NLP methodologies, as evidenced by a prominent study.
 Furthermore, ML and NLP have found applications in medical reviews to analyze public
 behavior. Moreover, such an approach will offer valuable guidance for future studies, enabling them
 to contribute more to the subject matter.
 
-Methodology
+# Methodology
 For our study, we utilized a social media platform (Twitter) to gain insights into people&#39;s perspectives
 on COVID-19 booster doses and the concerns they expressed regarding booster doses. To collect
 relevant data, we utilized the Python library Snscrape to scrape public tweets, which enabled us to
